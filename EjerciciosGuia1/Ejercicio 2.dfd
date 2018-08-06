@@ -50,14 +50,28 @@ galonesporkilometro
 3
 12
 numeroviajes
-0
-
+20
+pesoCarga/pesoMaximo
 15
 numerotrayectos
-0
-
+14
+numeroViajes*2
 14
 distanciatotal
-0
-
+16
+160*numeroViajes
+6
+1
+17
+galonesRequeridos
+38
+(160*numeroViajes)*galonesporKilometro
+4
+1
+147
+'El camión para transportar los',pesoCarga,' kg requiere:',numeroViajes,' viajes que corresponden a ', numeroTrayectos,' trayectos (ida y vuelta).'
+4
+1
+117
+'Se recorrerá una distancia total de ',distanciaTotal,' km, que implica un consumo de ',galonesRequeridos,' galones.'
 1

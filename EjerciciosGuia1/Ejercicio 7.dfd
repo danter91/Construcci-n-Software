@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+82
+'Programa que calcula el semiperímetro, el área y el circumradius de un triángulo'
+4
+1
+56
+'Escriba la dimensión del lado A del triángulo (en cm):'
+5
+1
+5
+ladoA
+4
+1
+56
+'Escriba la dimensión del lado B del triángulo (en cm):'
+5
+1
+5
+ladoB
+4
+1
+56
+'Escriba la dimensión del lado C del triángulo (en cm):'
+5
+1
+5
+ladoC
+6
+3
+13
+semiperimetro
+21
+(LadoA+LadoB+LadoC)/2
+4
+area
+85
+sqrt(Semiperimetro*(Semiperimetro-LadoA)*(Semiperimetro-LadoB)*(Semiperimetro-LadoC))
+11
+circumradio
+39
+(LadoA*LadoB*LadoC)/((3.1416+4)*(Area))
+4
+1
+125
+'El valor del Semiperímetro es ', Semiperimetro ,' cm, el Área es ', Area ,' cm^2 y el Circumradio es ', Circumradio ,'cm^2.'
+1

@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+0
+1
+0
+0
+4
+1
+54
+'Programa que calcula el área de un hexágono regular.'
+4
+1
+51
+'Escriba la dimensión de uno de los lados (en cm):'
+5
+1
+8
+longitud
+6
+3
+14
+anguloRadianes
+15
+(30*3.1416)/180
+7
+Apotema
+32
+Longitud/(2*tan(anguloRadianes))
+4
+area
+18
+3*Longitud*Apotema
+4
+1
+40
+'El área del hexágono regular es: ',Area
+1

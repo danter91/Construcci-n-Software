@@ -1,0 +1,165 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+17
+estudiantesGordos
+1
+0
+17
+estudiantesFlacos
+1
+0
+12
+sillasporBus
+1
+0
+6
+3
+10
+valorPlato
+1
+0
+15
+valorHabitacion
+1
+0
+21
+personasporHabitacion
+1
+0
+6
+2
+8
+valorBus
+1
+0
+9
+diasPaseo
+1
+0
+4
+1
+72
+'Programa que organiza el paseo al Melgar del colegio los tres cerditos'
+4
+1
+42
+'Escriba el número de estudiantes gordos:'
+5
+1
+17
+estudiantesGordos
+4
+1
+42
+'Escriba el número de estudiantes flacos:'
+5
+1
+17
+estudiantesFlacos
+4
+1
+38
+'Escriba el número de sillas por bus:'
+5
+1
+12
+sillasporBus
+4
+1
+39
+'Escriba el valor por plato de comida:'
+5
+1
+10
+valorPlato
+4
+1
+34
+'Escriba el valor por habitación:'
+5
+1
+15
+valorHabitacion
+4
+1
+47
+'Escriba el número de personas por habitación:'
+5
+1
+21
+personasporHabitacion
+4
+1
+44
+'Escriba el valor de alquiler por cada bus:'
+5
+1
+8
+valorBus
+4
+1
+42
+'Escriba la duración del paseo (en días):'
+5
+1
+9
+diasPaseo
+6
+3
+15
+busesRequeridos
+54
+((estudiantesGordos*2)+estudiantesFlacos)/sillasporBus
+16
+costoAlquilerBus
+28
+(busesRequeridos*valorBus)*2
+16
+valorTotalComida
+66
+((estudiantesGordos*5)+(estudiantesFlacos*3))*diasPaseo*valorPlato
+6
+3
+17
+totalHabitaciones
+59
+(estudiantesGordos+estudiantesFlacos)/personasporHabitacion
+23
+valordiarioHabitaciones
+33
+totalHabitaciones*valorHabitacion
+22
+valortotalHabitaciones
+33
+valordiarioHabitaciones*diasPaseo
+4
+1
+51
+'El número de buses requeridos es ',busesRequeridos
+4
+1
+62
+'El costo por el alquiler de los buses es $ ',costoAlquilerBus
+4
+1
+53
+'El valor total de la comida es $ ', valorTotalComida
+4
+1
+60
+'El número de habitaciones requerido es ', totalHabitaciones
+4
+1
+84
+'El valor al día por el alquiler de las habitaciones es $ ', valordiarioHabitaciones
+4
+1
+81
+'El valor total por el alquiler de las habitaciones es $ ',valortotalHabitaciones
+1

@@ -1,0 +1,70 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+sqlow
+1
+0
+4
+squp
+1
+0
+6
+height
+1
+0
+4
+1
+66
+'Programa que calcula el volumen de una figura de tronco de cono.'
+4
+1
+47
+'Escriba el radio de la base inferior (en cm):'
+5
+1
+5
+sqlow
+4
+1
+48
+'Escriba el radio de la base superior (en cm):' 
+5
+1
+4
+squp
+7
+0
+1
+10
+sqlow>squp
+4
+1
+62
+'El valor de la base superior debe ser menor que el inferior.'
+13
+4
+1
+29
+'Escriba la altura (en cm): '
+5
+1
+6
+height
+6
+1
+6
+volume
+55
+((height*3.141592)/3)*((sqlow^2)+(squp^2)+(sqlow*squp))
+4
+1
+52
+'El volumen del tronco de cono es ', volume ,' cm^3'
+13
+1

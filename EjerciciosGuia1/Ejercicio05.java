@@ -25,7 +25,7 @@ public class Ejercicio05 {
 
     do{
 
-      System.out.println("Escriba la clase (1,2 o 3): ");
+          System.out.println("Escriba la clase (1,2 o 3): ");
       Clase = entrada.nextDouble();
 
     if (Clase<4&&Clase>0) {
