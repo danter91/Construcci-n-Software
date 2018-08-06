@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+9
+pesocarga
+1
+0
+10
+pesomaximo
+1
+0
+19
+galonesporkilometro
+1
+0
+4
+1
+123
+'Programa que calcula el número de viajes y cantidad de gasolina en la ruta Bogotá-Sasaima (Distancia por Trayecto 80 km).'
+4
+1
+53
+'Escriba el peso total de la carga a llevar (en kg):'
+5
+1
+9
+pesocarga
+4
+1
+55
+'Escriba el peso máximo que soporta el camión (en kg):'
+5
+1
+10
+pesomaximo
+4
+1
+80
+'Escriba el rendimiento del combustible del camión (Consumo de Galones por Km):'
+5
+1
+19
+galonesporkilometro
+6
+3
+12
+numeroviajes
+0
+
+15
+numerotrayectos
+0
+
+14
+distanciatotal
+0
+
+1
