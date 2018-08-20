@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+94
+'Programa que calcula la productividad de un colectivo según número de viajes y de pasajeros.'
+4
+1
+58
+'Escriba la capacidad máxima del bus (número de personas)'
+5
+1
+9
+capacidad
+4
+1
+48
+'Escriba el número de turistas que van al hotel'
+5
+1
+8
+turistas
+6
+3
+6
+viajes
+18
+turistas/capacidad
+17
+valortotalpasajes
+14
+turistas*10000
+13
+valorcomision
+13
+turistas*2000
+4
+1
+218
+'El bus debe realizar ',viajes,' viajes, el valor total que deben pagar todos los turistas al conductor es ',valortotalpasajes,' y la comisión que debe pagar el conductor a la empresa propietaria es ',valorcomision,'.'
+1

@@ -1,0 +1,126 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+91
+'Programa que calcula el impuesto a pagar y el precio neto de un vehiculo según categoría.'
+4
+1
+39
+'Escriba el precio bruto del vehículo:'
+5
+1
+11
+preciobruto
+4
+1
+72
+'Escriba el tipo de vehículo: (‘1’ para camioneta o ‘2’ para automóvil,'
+5
+1
+12
+tipovehiculo
+7
+0
+1
+14
+tipovehiculo=1
+7
+0
+1
+14
+tipovehiculo=2
+4
+1
+65
+'El valor ingresado no corresponde a un tipo de vehículo válido.'
+13
+7
+0
+1
+15
+preciobruto<=20
+7
+0
+1
+30
+preciobruto>20&preciobruto<=40
+6
+2
+8
+impuesto
+1
+9
+10
+precioneto
+20
+impuesto+preciobruto
+4
+1
+92
+'El impuesto a pagar por la camioneta es $',impuesto,' y el precio neto es $',precioneto,'.'
+13
+6
+2
+8
+impuesto
+20
+impuesto+preciobruto
+10
+precioneto
+20
+impuesto+preciobruto
+4
+1
+92
+'El impuesto a pagar por la camioneta es $',impuesto,' y el precio neto es $',precioneto,'.'
+13
+13
+6
+2
+8
+impuesto
+1
+5
+10
+precioneto
+33
+precioneto = impuesto+preciobruto
+4
+1
+92
+'El impuesto a pagar por la camioneta es $',impuesto,' y el precio neto es $',precioneto,'.'
+13
+13
+13
+7
+0
+1
+14
+preciobruto<80
+6
+2
+8
+impuesto
+24
+impuesto = preciobruto/2
+10
+precioneto
+19
+impuesto+preciobrut
+4
+1
+92
+'El impuesto a pagar por la camioneta es $',impuesto,' y el precio neto es $',precioneto,'.'
+13
+4
+1
+82
+'El impuesto a pagar por la camioneta es $ 0 y el precio neto es $',precioneto,'.'
+13
+13
+1
